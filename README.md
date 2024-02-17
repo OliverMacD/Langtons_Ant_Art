@@ -21,5 +21,25 @@ Similar to traditional extensions to multiple colors, this program will utilize 
 - All tiles with a value < 0 will be displayed by a black square
 - All tiles revert to 0 when they hit a max of N
 
+# Current Progress
+The project is currently in its early stages, a table of the progress on the individual milestones can be found below. Futher information on the different milestones can be found under the respective section including smaller more detailed milestones.
+
+| Milestones       | Python Simulation | Arduino Bit Matrix | Large Scale Art Piece  |
+|------------------|-------------------|--------------------|------------------------|
+| Current Progress | Not Started       | Not Started        | Not Started            |   
+| Last Update      | 02.16.2024        | 02.16.2024         | 02.16.2024             |
+
+## Python Simulation
+**Goal:** Create a python version of the display to show what the ant's path might look like and get a good understanding of the projects direction.
+**Progress:** Not Started
+
+## Arduino Bit Matrix
+**Goal:** Create a small scale version of the project using an arduino and basic off the shelf components
+**Progress:** Not Started
+
+## Large Scale Art Piece
+**Goal:** Create the full large scale art piece
+**Progress:** Not Started
+
 # Sources
 (A) https://en.wikipedia.org/wiki/Langton%27s_ant
