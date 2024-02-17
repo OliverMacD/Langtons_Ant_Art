@@ -31,14 +31,17 @@ The project is currently in its early stages, a table of the progress on the ind
 
 ## Python Simulation
 **Goal:** Create a python version of the display to show what the ant's path might look like and get a good understanding of the projects direction.
+
 **Progress:** Not Started
 
 ## Arduino Bit Matrix
-**Goal:** Create a small scale version of the project using an arduino and basic off the shelf components
+**Goal:** Create a small scale version of the project using an arduino and basic off the shelf components.
+
 **Progress:** Not Started
 
 ## Large Scale Art Piece
-**Goal:** Create the full large scale art piece
+**Goal:** Create the full large scale art piece.
+
 **Progress:** Not Started
 
 # Sources
