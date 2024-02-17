@@ -34,9 +34,8 @@ The project is currently in its early stages, a table of the progress on the ind
 
 **Progress:** Not Started
 
-The simulation is run on a jupyter notebook in python 3.12.0. To run the simulation, the following packages are needed on top of a default conda environment:
-- notebook
-- matplotlib
+The simulation is run on in python 3.12.0. To run the simulation, the following packages are needed on top of a default conda environment.
+- streamlit
 
 ## Arduino Bit Matrix
 **Goal:** Create a small scale version of the project using an arduino and basic off the shelf components.
